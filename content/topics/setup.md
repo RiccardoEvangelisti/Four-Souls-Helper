@@ -1,5 +1,5 @@
 Setup
--------
+---------
 
 Shuffle the Treasure, Loot, and Monster Decks. Also shuffle the Room Deck, if you are playing with it. Set aside space for a discard zone next to each of these decks.
 
