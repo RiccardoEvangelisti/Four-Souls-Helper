@@ -3,17 +3,7 @@
 
 ### Treasure Cards
 
-"![treasure](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png)"
-
-"<img src="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" alt="drawing" width="20"/>"
-
-"<img src="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" width="20" height="40"/>"
-
-"[<img src ="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" width="20" height="40"/> ](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png)"
-
 ![Image](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png#187x256)
-
-"![](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png | width=100)"
 
 Treasure cards are found in the treasure deck. Whilst **in play** (see **Game Zones**), a treasure card is an object referred to as an **item**. This means items are either controlled by a player or in the shop.
 
@@ -35,7 +25,7 @@ Items in the shop slots are referred to as **shop items**. Shop items can be pur
 
 ### Loot Cards
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/LootCardBack-751x1024.png" width="200"/>
+![Image](https://foursouls.com/wp-content/uploads/2021/10/LootCardBack-751x1024.png#187x256)
 
 Loot cards are found in the loot deck, and in players’ hands. When a player is instructed to **loot**, they draw that many cards from the top of the loot deck into their hand. Players keep loot cards in their hand until they **play** or **discard** them. A player’s hand is private, but anyone can count the number of cards in a player’s hand.
 
@@ -47,7 +37,7 @@ Some abilities and effects may permit a player to play loot cards from other zon
 
 ### Monster Cards
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack-751x1024.png" width="200"/>
+![Image](https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack-751x1024.png#187x256)
 
 Monster cards are found in the monster deck. Whilst **in play**, monster cards are objects referred to as either a **monster** (if they have a stat block) or an **event** (if they don’t have a stat block).
 
@@ -91,7 +81,7 @@ Similarly, if an ability looks for a player gaining or being given a soul, it wi
 
 #### Bonus Souls
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/BonusSoulCardBack-751x1024.png" width="200"/>
+![Image](https://foursouls.com/wp-content/uploads/2021/10/BonusSoulCardBack-751x1024.png#187x256)
 
 Once you are more familiar with the game’s mechanics, you are encouraged to add **bonus souls** to your games.
 
@@ -105,7 +95,7 @@ Bonus souls can only be gained once per game. If a bonus soul is ever destroyed,
 
 ### Character Cards
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack-751x1024.png" width="200"/>
+![Image](https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack-751x1024.png#187x256)
 
 Character cards start outside the game. When starting the game, a character card is randomly assigned to a player and put into play under their control (see **Setup**). While in play, character cards are objects referred to as **characters**.
 
@@ -119,7 +109,7 @@ A character may be worth souls if it has a soul icon on it, or if there is a sou
 
 ### Room Cards
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/RoomCardBack-1024x751.png" width="200"/>
+![Image](https://foursouls.com/wp-content/uploads/2021/10/RoomCardBack-1024x751.png#187x256)
 
 Room cards were introduced in the Requiem expansion. Room cards are found in the room deck, which is an optional bonus deck that can be added once you feel comfortable with the basic rules of the game. While **in play**, room cards are objects referred to as **rooms**. Rooms exist in **room slots**.
 
