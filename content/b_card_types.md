@@ -7,6 +7,8 @@
 
 Treasure cards are found in the treasure deck. Whilst **in play** (see **Game Zones**), a treasure card is an object referred to as an **item**. This means items are either controlled by a player or in the shop.
 
+<code> CIAOOOO </code)
+
 Players will acquire items throughout the game. Items have a wide variety of abilities that can range from modifying gameplay to interacting with other players and monsters (see **Abilities**). Players place any items they control face up in front of them.
 
 Any time a card instructs a player to **gain treasure**, they gain that many cards from the top of the treasure deck, putting them into play under their control.
