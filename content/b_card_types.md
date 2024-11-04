@@ -5,8 +5,8 @@
 
 ![treasure](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png)
 
-<img src="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" width="20"/>
-[<img src ="[assets/images/image01.png](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png)" width="20" height="40"/> ]()
+<img src="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" width="20" height="40"/>
+[<img src ="https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png" width="20" height="40"/> ](https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack-751x1024.png)
 
 Treasure cards are found in the treasure deck. Whilst **in play** (see **Game Zones**), a treasure card is an object referred to as an **item**. This means items are either controlled by a player or in the shop.
 
