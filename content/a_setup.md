@@ -1,4 +1,5 @@
 * * *
+
 # Setup
 1. Shuffle the Treasure, Loot, Monster, Room Decks. Set aside space for a discard zone next to each of these decks.
 2. Fill two **shop slots** with the top two cards of the treasure deck.
