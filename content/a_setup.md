@@ -10,7 +10,7 @@
 6. Deal a random character card (and it's character’s starting item card) to each player. *Characters start the game deactivated, while starting items start the game charged*
 7. Abilities that trigger at the start of the game trigger (for example Eden’s triggered ability). No one has priority here and so these abilities will all resolve instantly.
 8. Deal 3 loot cards and 3¢ to each player. Each player puts the loot cards in their **hand**.
-9. Finally, the saddest player goes first! You can also each roll a dice (lowest roll goes first!).
+9. Finally, the saddest player goes first! You can also each roll a dice: lowest roll goes first!.
 
 
 # Bartering

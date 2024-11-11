@@ -1,52 +1,18 @@
 # Specific Mechanics
 
-### Activate
-
-Players **activate** ↷ and $ abilities to put them onto the stack. To activate a ↷ ability, the object with that ability is **deactivated** (turned sideways 90°). To activate a $ ability, the specified cost is paid.
-
-* * *
-
 **Active Player**
 
 The player whose turn it is.
 
 * * *
 
-### Additional Names
-
-The name of a card is defined by the text within its title box. Some abilities may give an additional name to a card. Abilities that convey an additional name to a card are worded as “This is also named \[cardname\]” and function in all zones including outside the game.
-
-* * *
-
-**Ambush**
-
-When an ambush resolves, it becomes a monster in a monster slot not being attacked. The active player must make an additional attack on it this turn (see **Keyworded Abilities**).
-
-* * *
-
 ### And vs Then
 
-If an ability uses the word ‘**and**’ to link two things, it means that the second part is dependent on the first part. For example, if an ability said ‘Discard a loot card and loot 2.’, you would only loot 2 if you had been able to discard a loot card. The same is **not** true if the word ‘**then**’ is used. If the ability was instead worded as ‘Discard a loot card, then loot 2.’ the player would still loot 2 even if they weren’t able to discard a loot card. A period (e.g. Discard a loot card. Loot 2.) would function the same way as ‘then’, with the loot 2 not caring about what has come before it.
+If an ability uses the word ‘**and**’ to link two things, it means that the second part is dependent on the first part. 
+
+For example, if an ability said ‘Discard a loot card and loot 2.’, you would only loot 2 if you had been able to discard a loot card. The same is **not** true if the word ‘**then**’ is used. If the ability was instead worded as ‘Discard a loot card, then loot 2.’ the player would still loot 2 even if they weren’t able to discard a loot card. A period (e.g. Discard a loot card. Loot 2.) would function the same way as ‘then’, with the loot 2 not caring about what has come before it.
 
 Remember as well that colons in effect text, except when that text is used as an indicator for a roll ability, indicate costs. The cost would have to be paid for what comes after the colon to take effect.
-
-* * *
-
-### Attackable Items and Rooms
-
-Normally, attacks are made against monsters. Some other objects, for example items or rooms, can have abilities that allow them to be attacked, however. These cards will have stat blocks detailing their health, evasion, and attack stats for any attacks made against them. While they are in play, players may choose these attackable objects as a target when they declare an attack. All rules on when a player is able to declare an attack still apply. Once the attack has started, it will proceed exactly the same as if the target was a monster (see **Attacking**).
-
-If an attackable object is killed during the attack, it is destroyed (see **Destroy and Kill**). Any rewards, if indicated in a reward box on the card, will go to the active player when that object dies or is destroyed (even if that object is destroyed outside of an attack).
-
-It is important to note that an item or room that can be attacked is not a **monster**. This means they can’t be targeted by any ability or effect that targets a ‘monster’ specifically.
-
-* * *
-
-### Attacking Other Players
-
-Some abilities may allow you to attack other players – or indeed allow other players to attack you! These abilities will specify what the targeted player’s evasion will be for the attack. If an ability allows you to attack other players, you may choose a player as a target when you declare an attack. All rules on when you are able to declare an attack still apply. Once the attack has started, it will proceed exactly the same as if the target was a monster (see **Attacking**).
-
-If multiple effects allowing you to attack other players exist at the same time and specify that players have a different evasion stat, the effect that was created most recently takes precedence.
 
 * * *
 
@@ -54,11 +20,6 @@ If multiple effects allowing you to attack other players exist at the same time 
 
 **Canceling** is an action done to things on the stack. If something is canceled, it is removed from the stack before it can resolve and therefore has no effect. If **death** is canceled, the object that would’ve died heals until it has at least 1 HP, unless otherwise specified.
 
-* * *
-
-**Combat Damage**
-
-Damage that is done as a result of an attack roll is called **combat damage**.
 
 * * *
 
@@ -164,11 +125,6 @@ If an object’s max HP is reduced, if it has any marked damage, an equal amount
 
 If an object that has damage marked on it stops having an HP stat for any reason, that damage is removed.
 
-* * *
-
-### Deactivate
-
-**Deactivate** is an action done to objects. To deactivate an object, it is changed to a deactivated state (turned sideways 90°).
 
 * * *
 
@@ -186,11 +142,6 @@ To **destroy/kill**, the object being destroyed/killed has its HP set to 0 if it
 
 **Discard** is an action done to loot cards in hand. To discard, you move the specified number of loot cards from your hand into the loot discard.
 
-* * *
-
-### Doubling ¢
-
-If an ability instructs you to double the number of ¢ a player has, that player gains x¢, where x is the number of ¢ they have.
 
 * * *
 
@@ -285,12 +236,6 @@ Note that both stealing and swapping involve **giving**, and therefore will coun
 
 * * *
 
-**Indomitable**
-
-Indomitable monsters can’t be covered. If they would be put in a monster slot, expand monster slots by 1 and put them in that new slot (see **Keyworded Abilities**).
-
-* * *
-
 ### If You Do
 
 If an ability uses the phrase ‘If you do’, it means that the previous part of the ability must take effect for the next part to take effect. For example, if an item said ‘Destroy this. If you do, gain 25¢.’ you would only gain the 25¢ if the item had been able to be destroyed by its own ability.
@@ -307,11 +252,6 @@ If an object **levels up**, you put a **level counter** on that object. If an ob
 
 Objects that use levels will have tags that tell you which abilities the object has at a given level. For example, with Bum-bo!, the player that controls the item would get +2 to their first attack roll each turn when there are 1 or more level counters on it. When the item reaches 10 or more level counters, they then get +1 damage **in addition** to +2 to their first attack roll (as 10+ counters is still 1+ counters!). If they manage to get the item to 25+ counters, they then get the effect of the final ability as well.
 
-* * *
-
-### Loot
-
-**Loot** is an action that is done to the loot deck. To loot, you move the specified number of loot cards from the top of the loot deck to your hand.
 
 * * *
 
@@ -344,26 +284,12 @@ Anything that is noted is tied to the object that caused it to be noted, unless 
 
 * * *
 
-### Play
-
-**Play** is an action done to loot cards. To play means to move a loot card from one zone to the stack. The player who played the loot card controls it.
-
-By default, a player plays loot cards from their hand. However, abilities and effects can allow a player to play a loot card from another zone.
-
-* * *
-
 ### Prevent
 
 **Prevent** is an action done to death or damage.
 
 *   If an ability or effect instructs you to **prevent damage**, that damage is removed from the stack.
 *   If an ability or effect instructs you to **prevent death**, that death is removed from the stack, and the object that would have died heals until it has at least 1 HP, unless that ability or effect specifies how much HP is healed instead.
-
-* * *
-
-### Recharge
-
-**Recharge** is an action done to objects. To recharge an object, it is changed to a charged state (turned upright).
 
 * * *
 
@@ -374,11 +300,6 @@ By default, a player plays loot cards from their hand. However, abilities and ef
 *   To reroll a **dice roll**, a player simply rolls that dice again. Note that rerolling a dice roll will modify the result of the existing roll rather than creating a second separate roll.
 *   To reroll an **item**, you destroy it and, if you do, the player who controlled that item gains +1 treasure. If the item was controlled by the shop (i.e. it was a shop item), no player gains treasure. Instead the shop ‘gains the treasure’ and you put the top card of the treasure deck in the shop slot that the destroyed item was in.
 
-* * *
-
-**Round**
-
-A round lasts from the start of a player’s turn until the start of their next one, with each other player having had a turn in between.
 
 * * *
 

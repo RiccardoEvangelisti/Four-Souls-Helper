@@ -52,25 +52,34 @@ Any ability written on a loot card is a loot ability, unless it’s a triggered 
 
 * * *
 
-### Keyworded Abilities
+## Keyworded Abilities
 
-Some abilities are represented by a keyword. These keywords carry specific meanings and may fall under any of the ability categories.
+Some abilities are represented by a keyword:
 
-**Eternal:** Eternal is a static ability that means “This object can’t be destroyed or put into discard.” Eternal only functions on objects in play.
+#### Eternal
+Eternal is a static ability that means “This object can’t be destroyed or put into discard.” Eternal only functions on objects in play.
 
-**Trinket:** Trinket is a triggered ability that appears on loot cards that means “When this loot resolves, it becomes an item. Gain it.” Trinket only functions while on the stack. Unless otherwise specified, all other effect text on a trinket only functions while in play.
+#### Trinket
+Trinket is a triggered ability that appears on loot cards that means “When this loot resolves, it becomes an item. Gain it.” Trinket only functions while on the stack. Unless otherwise specified, all other effect text on a trinket only functions while in play.
 
-**Ambush:** Ambush is a triggered ability that appears on loot cards that means “When this loot resolves, choose a monster slot. This becomes a monster in that slot. The active player must make an additional attack against it this turn.” Ambush only functions while on the stack. Unless otherwise specified, all other effect text on an ambush only functions while in play.
+#### Ambush
+Ambush is a triggered ability that appears on loot cards that means “When this loot resolves, choose a monster slot. This becomes a monster in that slot. The active player must make an additional attack against it this turn.” Ambush only functions while on the stack. Unless otherwise specified, all other effect text on an ambush only functions while in play.
 
-**Guppy:** Guppy is a static ability. It has no function other than to be a marker for other cards to look for.
+#### Guppy
+Guppy is a static ability. It has no function other than to be a marker for other cards to look for.
 
-**Curse:** Curse represents two triggered abilities. The first is “When this enters play, it becomes a curse. The active player chooses a player. That player gains this.” The second is “When you die, put this into discard.”
+#### Curse
+Curse represents two triggered abilities. The first is “When this enters play, it becomes a curse. The active player chooses a player. That player gains this.” The second is “When you die, put this into discard.”
 
-**Indomitable:** Indomitable represents two static abilities. It appears on monster cards. The first is “If this would be put in a monster slot, instead expand monster slots by 1 and put this in that slot.” The second is “This can’t be covered.”
+#### Indomitable
+Indomitable represents two static abilities. It appears on monster cards. The first is “If this would be put in a monster slot, instead expand monster slots by 1 and put this in that slot.” The second is “This can’t be covered.”
 
-**Roll-:** Roll abilities are denoted by the text “roll-”. Roll abilities create a dice roll and a triggered ability that checks the result of the dice roll created by the roll ability. Roll abilities are put onto the stack after the ability that created them resolves. The triggered ability is always put onto the stack after the roll is made. Both the dice roll and the triggered ability created are considered to be controlled by the player who makes the dice roll.
+#### Roll-
+Roll- abilities are denoted by the text “roll-”. Roll abilities create a dice roll and a triggered ability that checks the result of the dice roll created by the roll ability. Roll abilities are put onto the stack after the ability that created them resolves. The triggered ability is always put onto the stack after the roll is made. Both the dice roll and the triggered ability created are considered to be controlled by the player who makes the dice roll.
 
-**Team Up:** Team Up is a triggered ability that means “After each attack roll the active player makes against this, each other chosen player makes an attack roll against this in turn order.” Unless otherwise specified, this triggered ability lasts until the end of that attack.
+#### Team Up
+Team Up is a triggered ability that means “After each attack roll the active player makes against this, each other chosen player makes an attack roll against this in turn order.” Unless otherwise specified, this triggered ability lasts until the end of that attack.
 
-**Familiar:** Familiar represents a static ability that means “This item can be attacked.”
+#### Familiar
+Familiar represents a static ability that means “This item can be attacked.”
 

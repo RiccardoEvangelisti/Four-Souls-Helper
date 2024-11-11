@@ -60,7 +60,7 @@ Covered in a slot is a public zone. That means all cards covered in a slot are c
 
 The **active bonus souls** that have been chosen for the game start outside the game, as does the card “The Harbingers” from the Requiem expansion. Character cards, starting item cards, and bonus souls that aren’t being used also exist outside the game.
 
-Unless otherwise specified, cards that are outside the game don’t have abilities. The three **active bonus souls** are an exception to this, and their abilities are active while they are outside the game.
+Unless otherwise specified, cards that are outside the game don’t have abilities. The three active bonus souls are an exception to this, and their abilities are active while they are outside the game.
 
 If a player is instructed to put an object or card under an object not in a slot, it is considered outside the game. For example, Friendly Ball’s ability puts monsters under it. The cards that are under it are outside the game.
 
