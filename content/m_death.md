@@ -1,3 +1,6 @@
+
+* * *
+
 # Death
 
 If a player or monster has 0HP at any point, and their death is not already on **the stack**, their death is put on **the stack** the next time any player would receive priority. If they can’t **prevent** or **cancel** that death by the time it **resolves**, they follow the steps for either player or monster death below. If a player or monster has an HP stat that is not a number at any point, that is considered the same as it having 0HP.

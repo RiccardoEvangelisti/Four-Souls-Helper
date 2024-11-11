@@ -1,3 +1,6 @@
+
+* * *
+
 # Effects
 
 An effect is something that happens due to a loot or ability. When a loot or ability resolves, it may create more effects.

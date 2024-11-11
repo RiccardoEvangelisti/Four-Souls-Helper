@@ -1,3 +1,6 @@
+
+* * *
+
 # Abilities
 
 Abilities consist of non-gray colored text, called **effect text**, that is written in a card’s text box. 

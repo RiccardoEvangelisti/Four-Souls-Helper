@@ -1,3 +1,6 @@
+
+* * *
+
 # Turn Structure
 
 Each turn is split into three phases: the Start Phase, the Action Phase, and the End Phase. Players take turns in a clockwise order, and therefore at the end of a player’s End Phase, the turn is passed to the player to their left.

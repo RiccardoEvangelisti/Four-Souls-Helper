@@ -1,3 +1,6 @@
+
+* * *
+
 # Game Zones
 
 **Game Zones** are areas of the game where cards and objects exist.

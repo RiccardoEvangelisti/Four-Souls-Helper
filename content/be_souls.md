@@ -1,3 +1,6 @@
+
+* * *
+
 # Souls
 
 When a player controls a card with a soul icon as a **soul**, it provides them with a soul value. Even if a **soul** has a soul value greater than 1 it is still considered a single object. This means a soul with a soul value of 2 can be destroyed or stolen, for example, just the same as any other soul with a soul value of 1. There are, however, a number of abilities in the game that look for the number of souls a player controls. These abilities refer to the **total soul value** a player controls. Similarly, if an ability looks for a player gaining or being given a soul, it will consider a soul with a soul value of greater than 1 the same as gaining or being given a number of souls equal to that soul value, even though technically just one soul is coming under that player’s control.

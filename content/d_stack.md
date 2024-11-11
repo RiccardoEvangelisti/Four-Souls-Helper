@@ -1,3 +1,6 @@
+
+* * *
+
 # The Stack
 
 Each new loot, ability, or dice roll is added to the top of the stack. The stack resolves in a last in, first out order. That means that the last thing put onto the stack will resolve before things put onto the stack before it
