@@ -6,7 +6,7 @@ Monster cards are found in the monster deck. Whilst **in play**, monster cards a
 
 If an ability on a monster card doesn’t specify a particular player, instead referring to ‘you’, it means the active player.
 
-Abilities on monster cards only function while in play, unless otherwise specified. Abilities on monster cards don’t function while they are a soul, unless otherwise specified.
+Abilities on monster cards only function while in play, unless otherwise specified. Abilities on monster cards don’t function while they are a soul, unless otherwise specified. For example, the monster Stoney has a static ability that says “Monsters have +1 DC.” The continuous effect created by that ability would only apply while it is ***in play***. A continuous effect created in this way stays until the card with the static ability leaves its appropriate game zone.
 
 ### **Monsters**
 
