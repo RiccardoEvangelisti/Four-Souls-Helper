@@ -1,0 +1,5 @@
+Each new loot, ability, or dice roll is added to the top of the stack. The stack resolves in a last in, first out order. That means that the last thing put onto the stack will resolve before things put onto the stack before it
+
+A loot or ability resolves when each player passes **priority** in succession from the player who put that loot or ability on the stack, with that player also not putting anything on else the stack themselves (see **Priority**).
+
+If an ability is removed from the stack, it does not resolve. If a loot being played is removed from the stack by an ability, it does not resolve and is moved to whatever zone is determined by the ability. If a loot or ability is **canceled,** then it is removed from the stack without resolving. Loot cards removed from the stack in this way go to the loot discard.
