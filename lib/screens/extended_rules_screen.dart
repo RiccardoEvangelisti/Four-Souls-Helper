@@ -43,9 +43,30 @@ class _ExtendedRulesScreenState extends State<ExtendedRulesScreen> {
       ),
       body: Consumer<RulesProvider>(
         builder: (context, rulesProvider, child) {
+          if (rulesProvider.error != null) {
+            return Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    rulesProvider.error!,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(color: Colors.red),
+                  ),
+                  const SizedBox(height: 16),
+                  ElevatedButton(
+                    onPressed: () => rulesProvider.fetchChapters(),
+                    child: const Text('Retry'),
+                  ),
+                ],
+              ),
+            );
+          }
+
           if (rulesProvider.isLoading) {
             return const Center(child: CircularProgressIndicator());
           }
+
           return ChapterList(scrollController: _scrollController);
         },
       ),
