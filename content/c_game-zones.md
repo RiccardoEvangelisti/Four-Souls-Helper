@@ -9,7 +9,7 @@ If a card moves from one game zone to another at any point `it is considered a n
 
 ### In Play
 
-*In play* includes all objects a player controls (such as characters, items, and souls), and `the topmost object in any shop slots, monster slots, or room slots`. In play is a public zone, and all objects within it are considered public information, unless otherwise specified.
+**In play** includes all objects a player controls (such as characters, items, and souls), and `the topmost object in any shop slots, monster slots, or room slots`. In play is a public zone, and all objects within it are considered public information, unless otherwise specified.
 
 * * *
 

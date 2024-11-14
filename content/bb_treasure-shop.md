@@ -16,6 +16,13 @@ A player’s **starting item** is considered an **item**. Starting items intrins
 
 **Active items** are treasure cards with a gold-border and have one or more **activated abilities**.
 
+#### Active vs Activated vs Recharged vs Deactivated
+- Active player: the player whose turn it is
+- Active item: it's an item that has one or more Activated Abilities (gold-boarded treasure card). It's in contrast with a Passive item.
+- Activated Abilities: are those with ↷ or $. Can be of an Active item, a character card, a room, etc...
+- Recharged: is it an object that has an activated ability that is in the charged state (it is turned upright)
+- Deactivated: is it an object that has an activated ability but it was used (it is turned sideways)
+
 
 ### Passive items
 
@@ -24,7 +31,9 @@ A player’s **starting item** is considered an **item**. Starting items intrins
 
 ### Shop Items
 
-Items in the shop slots are referred to as **shop items**. Shop items can be purchased. `Unless otherwise specified, an item’s abilities do not function while it is in the shop, with the exception of triggered abilities that trigger when an item enters or leaves play.`
+Items in the shop slots are referred to as **shop items**. (*thus, top card of treasure deck is not a shop item*)
+
+Shop items can be purchased. Unless otherwise specified, `an item’s abilities do not function while it is in the shop`, with the exception of triggered abilities that trigger when an item enters or leaves play.
 
 
 ## Purchasing
@@ -36,11 +45,3 @@ When a player declares a purchase, before they choose what to purchase, priority
 At this point, the cost of what is being purchased is determined. By default, it costs 10¢ to purchase either a shop item or the top of the treasure deck. If a player can’t pay the cost at this point, purchasing ends and they fail to purchase an item. If they are able to pay the cost, they gain control of whatever it was they chose to purchase.
 
 By default, the active player may purchase once per turn. Effects and abilities may modify the number of purchases the active player can make.
-
-
-# Active vs Activated vs Recharged vs Deactivated
-- Active player: the player whose turn it is
-- Active item: it's an item that has one or more Activated Abilities (gold-boarded treasure card). It's in contrast with a Passive item.
-- Activated Abilities: are those with ↷ or $. Can be of an Active item, a character card, a room, etc...
-- Recharged: is it an object that has an activated ability that is in the charged state (it is turned upright)
-- Deactivated: is it an object that has an activated ability but it was used (it is turned sideways)

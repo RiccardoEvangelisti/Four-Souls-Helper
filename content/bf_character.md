@@ -5,7 +5,7 @@
 
 ![Image](https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack-751x1024.png#93x128)
 
-While in play, character cards are objects referred to as **characters**.
+While in play, character cards are objects referred to as **characters**. (*thus, thay are not items*)
 
 A character card may list a **starting item**. This is a triggered ability that functions when the card enters play and causes the player that controls that character to put that starting item card under their control. These triggered abilities don’t use the stack.
 

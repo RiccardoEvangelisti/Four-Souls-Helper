@@ -114,7 +114,7 @@ Eternal counters are a special type of counter. If an eternal counter is placed 
 
 Damage is a value applied to an object with an HP stat. Damage causes an object to lose that much HP. Damage is marked on an object when any damage on the stack resolves. For the sake of this section, a player is considered an object with HP equal to what is on their character card.
 
-Objects cannot go below 0HP. If an object with an HP stat has 0HP at any point, its death is put on **the stack** the next time any player would receive priority. An object with 0HP can still take damage, but that damage won’t be marked on the object, and won’t make it go below 0.
+Objects cannot go below 0HP. If an object with an HP stat has 0HP at any point, its death is put on **the stack** the next time any player would receive priority. `An object with 0HP can still take damage, but that damage won’t be marked on the object, and won’t make it go below 0.`
 
 To **deal damage** to an object, that much damage is put on the stack targeting that object. When that damage resolves, that much damage is marked on the object (if it has more than 0 HP). The damage source is the object with the ability dealing the damage, or the controller of that same object. The damage source is only considered to have **dealt damage** when the damage resolves, not simply when it is put on the stack.
 
@@ -156,13 +156,13 @@ When an ability instructs each player to do something, for example “Each playe
 
 If an ability targets multiple objects controlled by one player, for example “Reroll each item you control”, the player who controls the objects gets to decide the order in which the objects are affected.
 
-If an ability targets every item in play, for example “Reroll each item in play”, shop items are rerolled last, after each player rerolls each of their items in turn order, starting with the player who controls the ability, or the active player if the ability is controlled by the game.
+If an ability targets every item in play, for example `“Reroll each item in play”, shop items are rerolled last, after each player rerolls each of their items in turn order`, starting with the player who controls the ability, or the active player if the ability is controlled by the game.
 
 If an ability says that “Each player dies” or “Each player takes x damage”, the players will still die or take damage in turn order, starting with the player who controls the ability (or the active player if the ability is controlled by the game). This means that the deaths and instances of damage are actually added to the stack in reverse order in this case, so that they then resolve in turn order.
 
-When an ability says that something happens to each monster, for example “Each monster takes 1 damage”, it is the player that controls that ability that gets to choose the order. If the ability is controlled by the game, it will be the active player who chooses.
+When an ability says that something happens to each monster, for example `“Each monster takes 1 damage”, it is the player that controls that ability that gets to choose the order`. If the ability is controlled by the game, it will be the active player who chooses.
 
-If an ability says “Each player and each monster dies”, monsters would die first, followed by players. The ordering of monster and player deaths would be decided as above.
+If an ability says `“Each player and each monster dies”, monsters would die first, followed by players`. The ordering of monster and player deaths would be decided as above.
 
 * * *
 
@@ -247,9 +247,7 @@ If an ability uses the phrase ‘If you do’, it means that the previous part o
 
 ### Levels
 
-Some objects use **levels** to determine which abilities they have at any given time. You use **level counters** (which function just like any other specific named counter (see **Counters**)) to keep track of the level of an object.
-
-![](https://foursouls.com/wp-content/uploads/2022/01/b2-bum_bo-751x1024.png)
+Some objects use **levels** to determine which abilities they have at any given time. You use **level counters** (`which function just like any other specific named counter`) to keep track of the level of an object.
 
 If an object **levels up**, you put a **level counter** on that object. If an object **levels down**, you remove a **level counter** from that object, if able.
 
