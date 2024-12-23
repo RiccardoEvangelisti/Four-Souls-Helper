@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_markdown/flutter_markdown.dart';
 import '../providers/rules_provider.dart';
 import '../widgets/search_bar.dart';
 import '../widgets/chapter_list.dart';
@@ -74,8 +73,8 @@ class _ExtendedRulesScreenState extends State<ExtendedRulesScreen> {
         onPressed: () {
           Provider.of<RulesProvider>(context, listen: false).closeAllChapters();
         },
-        child: const Icon(Icons.close),
         tooltip: 'Close all chapters',
+        child: const Icon(Icons.close),
       ),
     );
   }

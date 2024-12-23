@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
@@ -99,7 +99,9 @@ class RulesProvider with ChangeNotifier {
           );
         }
       } catch (e) {
-        print('Error processing image $baseImageUrl: $e');
+        if (kDebugMode) {
+          print('Error processing image $baseImageUrl: $e');
+        }
       }
     }
     return processedContent;
@@ -122,7 +124,9 @@ class RulesProvider with ChangeNotifier {
         _error = null;
         notifyListeners();
       } catch (e) {
-        print('Error loading local chapters: $e');
+        if (kDebugMode) {
+          print('Error loading local chapters: $e');
+        }
         await fetchChapters();
       }
     } else {
@@ -219,7 +223,9 @@ class RulesProvider with ChangeNotifier {
       }
     } catch (error) {
       _error = 'Failed to load content. Please check your internet connection and try again.';
-      print('Error fetching chapters: $error');
+      if (kDebugMode) {
+        print('Error fetching chapters: $error');
+      }
       _isLoading = false;
       notifyListeners();
     }
