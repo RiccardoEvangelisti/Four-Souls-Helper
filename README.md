@@ -1,16 +1,9 @@
-# four_souls_helper
+# Four Souls Helper
+A Flutter-built mobile app providing quick access to the rules of the Four Souls board game.
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/f0ce5366-d408-4307-9eb1-5c2eeab75e07" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" />
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/94ccaa9c-54b7-496d-874f-7679d479d850" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/464ece71-458a-43e8-b665-1e0fbe860c66" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" />
