@@ -68,7 +68,7 @@ Trinket is a triggered ability that appears on loot cards that means “When thi
 #### Ambush
 Ambush is a triggered ability that appears on loot cards that means “When this loot resolves, choose a monster slot. This becomes a monster in that slot. The active player must make an additional attack against it this turn.” Ambush only functions while on the stack. Unless otherwise specified, all other effect text on an ambush only functions while in play.
 
-Greed Butt: you can play it whenever you want, because the Ambush resolves when the loot resolves.
+_Greed Butt: you can play it whenever you want, because the Ambush resolves when the loot resolves._
 
 #### Guppy
 Guppy is a static ability. It has no function other than to be a marker for other cards to look for.
