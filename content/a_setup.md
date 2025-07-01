@@ -5,7 +5,7 @@
 1. Shuffle the Treasure, Loot, Monster, Room Decks. Set aside space for a discard zone next to each of these decks.
 2. Fill two **shop slots** with the top two cards of the treasure deck.
 3. Fill two **monster slots** with the top two cards of the Monster Deck. Place any event cards on the bottom of the deck and replace them with the top card of the Monster Deck.
-4. Fille one **room slot** with the top card of the Room Deck.
+4. Fill one **room slot** with the top card of the Room Deck.
 5. If you are playing with **bonus souls**, shuffle them, and pick 3 at random. Those 3 are the **active bonus souls** for the game and are placed face-up next to the play area.
 6. Deal a random character card (and it's character’s starting item card) to each player. *Characters start the game deactivated, while starting items start the game charged*
 7. Abilities that trigger at the start of the game trigger (for example Eden’s triggered ability). No one has priority here and so these abilities will all resolve instantly.
